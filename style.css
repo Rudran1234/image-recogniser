@@ -1,0 +1,13 @@
+body{color:blanchedalmond;
+background:black;
+}
+.heading{
+width:80%;
+font-size: 22px;
+}
+.nameofobjects{color:yellow}
+#camera{
+    border:2px dashed black;
+    width:350px ;
+    height: 300px;
+}
